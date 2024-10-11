@@ -1,0 +1,17 @@
+{
+    "graphics": {
+      "columns": ["Object", "Artist", "Title of artwork", "Period", "Technique", "Signature", "Edition", "Condition", "Total dimensions", "Description", "expert", "id", "Estimation", "close_at", "highest_bid", "highlight_image_url", "Year", "Weight", "file_name"],
+      "sheet_url": "https://docs.google.com/spreadsheets/d/1sLwSQUGLL6KV66BkM3dr-vgX8_n7fAuBnoTGXsAhK9E/edit#gid=1305971981",
+      "sheet_name": "Sheet1",
+      "auction_type": "graphics"
+    },
+    "books": {
+      "columns": [
+        "Number of Books", "Subject", "Author/ Illustrator", "Book Title", "Publisher", "Condition", "Publication year oldest item", "Publication year youngest item", "Edition", "Language", "Original language", "Number of pages", "Binding/ Material", "Height of the book", "Width of the book", "Extras", "Description", "expert", "id", "Estimation", "close_at", "highest_bid", "highlight_image_url", "file_name"
+      ],
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18MCTw1E01cuhk8gM0h9uHO_lsAd7BpRWCauQTkUMcpc/edit?usp=sharing",
+      "sheet_name": "Sheet1",
+      "auction_type": "books"
+    }
+  }
+  
